@@ -1,5 +1,9 @@
 
 # Lab 02 – Phân tích yêu cầu & Thiết kế UML (Hotel Booking System)
+👥 Thành viên nhóm
+Phan Ngọc Thiên Minh _ N23DCPT094 -Leader
+Nguyễn Ngọc Bảo Linh _ N23DCPT089
+Lê Minh Khang _ N23DCPT083
 
 ## 🎯 Mục tiêu
 - Học cách mô tả yêu cầu phần mềm bằng UML.  
